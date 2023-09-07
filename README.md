@@ -29,8 +29,11 @@ Requirement
 ● User should be able to send a command to any SmartHome device via a Connected Interface device by using Activation Keyword(Ex: “OK Google”)
 ● SmartHome device can respond to the command as follows:
 ○ Can only accept a valid command (described above) and change its internal state
-○ Can reject an invalid command with appropriate message to the interface device ● Interface device should provide all connected devices and their status ● User should be able to connect or disconnect a SmartHome device to an interface device.
+○ Can reject an invalid command with appropriate message to the interface device 
+● Interface device should provide all connected devices and their status 
+● User should be able to connect or disconnect a SmartHome device to an interface device.
 ● User should be able to give special commands[Details listed below]
+
 Command Definition
 ● Add_interface_device
 ○ Interface name

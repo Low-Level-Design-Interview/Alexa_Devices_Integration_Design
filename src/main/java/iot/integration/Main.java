@@ -2,6 +2,6 @@ package iot.integration;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+//        InterfaceDevice device= new InterfaceDevice();
     }
 }
